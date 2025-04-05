@@ -3,16 +3,16 @@
 //Ele é o ponto de entrada do nosso projeto, o bootstrap
 //do nosso projeto
 
-import Banner from './componentes/Banner/Banner'
-import CampoTexto from './componentes/CampoTexto/CampoTexto'
+import Banner from "./componentes/Banner"
+import Formulario from "./componentes/Formulario"
 
 
 function App() {
 
   return (
     <div className='App'>
-      <Banner/>
-      <CampoTexto/>
+      <Banner />
+      <Formulario />
       </div>
   )
 }
