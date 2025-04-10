@@ -13,7 +13,7 @@ function App() {
     <div className='App'>
       <Banner />
       <Formulario />
-      </div>
+    </div>
   )
 }
 
